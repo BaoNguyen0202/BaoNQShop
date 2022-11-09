@@ -1,0 +1,15 @@
+[
+    {
+        "customerId": "08092022",
+        "id": "#9726895435345",
+        "status": 1,
+        "rating": 3,
+        "deliveryTime": "5th June",
+        "desc": "New",
+        "products": [
+            { "id": 1, "name": "bedlamp", "desc": "Automatic sensor, Multi color", "size": "Medium", "img": "img_p1.jpg", "status": 1 },
+            { "id": 2, "name": "safeguard", "desc": "Automatic sensor, Multi color", "size": "Medium", "img": "img_p2.jpg", "status": 2 },
+            { "id": 3, "name": "johnsonbabypack", "desc": "Automatic sensor, Multi color", "size": "Medium", "img": "img_p3.jpg", "status": 3 }
+        ]
+    }
+]
